@@ -510,4 +510,34 @@
 		"hammerid"		"847174"
 		"m_iname"		"trip5_break_104"
 	}
+	"1060428"
+	{
+		"enable"		"0"
+		"hammerid"		"1060428"
+		"m_iname"		"trip5_break_111"
+	}
+	"1060762"
+	{
+		"enable"		"0"
+		"hammerid"		"1060762"
+		"m_iname"		"trip5_break_109"
+	}
+	"1082741"
+	{
+		"enable"		"0"
+		"hammerid"		"1082741"
+		"m_iname"		"item_particle_gun_proj&8594"
+	}
+	"1352139"
+	{
+		"enable"		"0"
+		"hammerid"		"1352139"
+		"m_iname"		"scene1_trip2_break"
+	}
+	"1148976"
+	{
+		"enable"		"0"
+		"hammerid"		"1148976"
+		"m_iname"		"item_particle_gun_proj&3169"
+	}
 }

@@ -292,13 +292,85 @@
 	}
 	"EXA FLARE"
 	{
-		"chi"		"** **"
+		"chi"		"**红终（开奶）**"
 	}
 	"WIND OF ABYSS"
 	{
-		"chi"		"** **"
+		"chi"		"**风之深渊（按住S抵抗吸力）**"
 	}
 	"LARGE EAGRE"
+	{
+		"chi"		"**大海啸**"
+	}
+	"CURAGA"
+	{
+		"chi"		"**超级治疗**"
+	}
+	"HOLY"
+	{
+		"chi"		"**终极**"
+	}
+	"MORTAL DISEASE"
+	{
+		"chi"		"**死病（开奶）**"
+	}
+	"QUAKE"
+	{
+		"chi"		"**地震（开奶并跳跃）**"
+	}
+	"*** Congratulation! youre now in admin room ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You can select any button you wants ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Enable Extreme boss Mode ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Please restart the round ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Change Stage to Insane ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Enable rtv color correction ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Disable rtv color correction ***"
+	{
+		"chi"		"** **"
+	}
+	"***test stripper2***"
+	{
+		"chi"		"** **"
+	}
+	"*** You press correct button! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by Airvuples ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fix to HDR by No Name ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
 	{
 		"chi"		"** **"
 	}

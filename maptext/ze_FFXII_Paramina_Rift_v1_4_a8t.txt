@@ -3,12 +3,12 @@
 	"** ZE FFXII PARAMINA RIFT **"
 	{
 		"chi"		"**最终幻想12：帕拉米亚峡谷**"
-		"DoorCountdown"		"-1"		
+		"DoorCountdown"		"-1"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
 		"chi"		"**第一章：帕拉米亚大峡谷 **"
-		"command"       "sm_flashlight_enabled 1"
+		"command"		"sm_flashlight_enabled 1"
 	}
 	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
 	{
@@ -269,7 +269,7 @@
 	"** [STAGE 2] STILSHRINE OF MIRIAM **"
 	{
 		"chi"		"**第二章：米利亚姆神庙**"
-		"command"	"sm_flashlight_enabled 0"
+		"command"		"sm_flashlight_enabled 0"
 	}
 	"** Player has acquired a SPEED-POTION **"
 	{
@@ -298,12 +298,12 @@
 	}
 	"** BARRIER 1 OPENS IN 15 SECS **"
 	{
-		"chi"		"**障碍1号15秒后打开！**"
+		"chi"		"**障碍一号15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"** BARRIER 2 OPENS IN 15 SECS"
 	{
-		"chi"		"**障碍2号15秒后打开！**"
+		"chi"		"**障碍二号15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"** HOLD HERE TILL THE GATE OPENS **"
@@ -342,7 +342,7 @@
 	}
 	"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
 	{
-		"chi"		"**神秘房间还有5秒开启！**"		
+		"chi"		"**神秘房间还有5秒开启！**"
 	}
 	"0 '. STAGGER"
 	{
@@ -657,12 +657,12 @@
 	}
 	"** BARRIER 1 OPENS IN 20 SECS **"
 	{
-		"chi"		"**障碍物1号20秒后移动**"
+		"chi"		"**障碍物一号20秒后移动**"
 		"DoorCountdown"		"20"
 	}
 	"** BARRIER 2 OPENS IN 20 SECS"
 	{
-		"chi"		"**障碍物2号20秒后移动**"
+		"chi"		"**障碍物二号20秒后移动**"
 		"DoorCountdown"		"20"
 	}
 	"** HOLD 30 SECONDS UNTIL THE WAY OPENS **"
@@ -681,6 +681,7 @@
 	"** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **"
 	{
 		"chi"		"**我们要往下跳才能逃离这**"
+		"DoorCountdown"		"30"
 	}
 	"** OH GOD ITS MATEUS! SHOOT IT! **"
 	{
@@ -953,7 +954,7 @@
 	}
 	"** BARRIER 2 OPENS IN 15 SECS **"
 	{
-		"chi"		"**障碍2号15秒后移动**"
+		"chi"		"**障碍二号15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"** Player has learned FIRE -- Level 1 **"
@@ -1100,7 +1101,7 @@
 	}
 	"** BARRIER 2 OPENS IN 20 SECS **"
 	{
-		"chi"		"**障碍物2号20秒后打开**"
+		"chi"		"**障碍物二号20秒后移动**"
 		"DoorCountdown"		"20"
 	}
 	"** Player has learned CURE -- Level 2 **"
@@ -1461,6 +1462,50 @@
 		"chi"		"** **"
 	}
 	"** Player has learned AERO (WIND MAGICK LV.2)**"
+	{
+		"chi"		"** **"
+	}
+	"** MAP Ported By Asami**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURE  (HEAL MAGICK LV.1)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned POISON (POISON MAGICK LV.1)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned POISON (POISON MAGICK LV.2)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURA (HEAL MAGICK LV.3)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FIRA (FIRE MAGICK LV.4)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned GRAVITY (WIND MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned BLIZZARA (ICE MAGICK LV.4)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURAGA (HEAL MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FIRAGA (FIRE MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned POISANA (POISON MAGICK LV.4)**"
 	{
 		"chi"		"** **"
 	}
