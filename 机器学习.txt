@@ -1,0 +1,43 @@
+https://blog.csdn.net/weixin_40788815/article/details/89878821   梯度下降/反向传播
+
+L2正则化
+梯度消失爆炸
+数据预处理   
+pca   https://blog.csdn.net/qusongzhixiasha/article/details/95890791
+
+
+rule函数做了什么  x=y  没有实现什么变化啊
+batch normalization 的优势
+Gradient Clipping(梯度裁剪)
+alextnet   为什么是227
+正则化和drop out的区别
+l1和 l2正则化的区别
+池化层的梯度下降
+
+
+https://www.cnblogs.com/king-lps/p/6298381.html 三年一梦
+F:\曾经的env\北风网AI实战  汇智学堂 nybf1
+
+淘宝项目39: 旧人已逝21  277540  一休网校
+
+
+
+
+
+
+https://www.baidu.com/s?wd=alexnet%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E8%AF%A6%E8%A7%A3&rsv_spt=1&rsv_iqid=0xf489ee120002286b&issp=1&f=3&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=18&rsv_sug1=11&rsv_sug7=101&rsv_sug2=1&prefixsug=Alexnet&rsp=0&inputT=13291&rsv_sug4=13528
+https://blog.csdn.net/weixin_39873397/article/details/84568723
+https://blog.csdn.net/chenyuping333/article/details/82178335
+https://www.baidu.com/s?wd=l1l2%E6%AD%A3%E5%88%99%E5%8C%96%E8%AF%A6%E8%A7%A3&rsv_spt=1&rsv_iqid=0x93b1c8bd000842b2&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&oq=l1l2%25E6%25AD%25A3%25E5%2588%2599%25E5%258C%2596&rsv_t=8cc6mHW%2BzyRWnOY2UoADRsBaAuejp17Sw1O9QBuuDjRhXpZe%2FPEOKwxCVS%2FHom4cga1n&inputT=1374&rsv_pq=a7d2b7610017ba65&rsv_sug3=118&rsv_sug1=56&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2383&rsv_sug=1
+https://www.jianshu.com/p/c9bb6f89cfcc
+
+图像处理
+反转
+裁剪
+颜色波动
+复制到最大样本数
+向下采样
+增大权值 小样本大权重
+测试和训练数据同意  在训练中的 1  2  3  在最后阶段逐个去掉   并且把优化函数改为梯度下降
+
+学习率可以固定可以变化 最前沿的是 三角学习率
